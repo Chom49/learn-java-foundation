@@ -2,7 +2,7 @@
 class Mobile
 {
     private int price=9;
-    private String name="khadija";
+    private String name="jb";
     private String brand="smartphone";
 
     
